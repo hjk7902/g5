@@ -12,6 +12,7 @@ NIPA-Goolge ML부트캠프 5기
 6. 신청마감 : 2024년 11월 28일까지
 7. 신청링크 : https://forms.gle/okkSDTsdt52sSos79
 
+* 주제 참고: https://aidd.medium.com/ai-for-good-80244b861b02
 https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/
 
 ![image](https://github.com/user-attachments/assets/d8255a21-a503-4bd3-b6d3-0a8248f9d95c)
