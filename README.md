@@ -13,3 +13,5 @@ NIPA-Goolge ML부트캠프 5기
 7. 신청링크 : https://forms.gle/okkSDTsdt52sSos79
 
 https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/
+
+![image](https://github.com/user-attachments/assets/d8255a21-a503-4bd3-b6d3-0a8248f9d95c)
